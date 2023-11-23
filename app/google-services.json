@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488047467539",
+    "project_id": "coconote-63187",
+    "storage_bucket": "coconote-63187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488047467539:android:3fcc1fd9bddc325b3873e6",
+        "android_client_info": {
+          "package_name": "dev.francisco.coconote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488047467539-cltsg1uf8ao42n3crddb04vj67jstq5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUlj-GpYVLlT2ML80QQ-yokkmwpRvWSzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488047467539-cltsg1uf8ao42n3crddb04vj67jstq5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
